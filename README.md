@@ -43,8 +43,8 @@ Fiatal, lelkes fejlesztő Magyarországról. Szenvedélyem az új dolgok felfede
 ## 📫 Elérhetőség
 
 - Email: mail@blaszlo.eu
-- Discord: `amir._blood`
-- Portfolio: https://blaszlo.eu | HAMAROSAN
+- Discord: `spilo.music`
+- Project: https://redlight-rp.com
 
 ---
 
