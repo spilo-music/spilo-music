@@ -36,7 +36,7 @@ Fiatal, lelkes fejlesztő Magyarországról. Szenvedélyem az új dolgok felfede
 
 - Email: mail@blaszlo.eu
 - Discord: `spilo.music`
-- Project: https://redlight-rp.com
+- Project: https://nvdev.hu
 
 ---
 
